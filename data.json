@@ -1,0 +1,31 @@
+[
+    {
+        "firstName": "Nurmuhammad",
+        "lastName": "Qosimov",
+        "email": "Qosimov@gmail.com",
+        "phoneNumber": 12345,
+        "password": "abc",
+        "subject": "web",
+        "group": [
+            {
+                "title": "front-end",
+                "time": 5
+            }
+        ]
+    },
+    {
+        "firstName": "N",
+        "lastName": "Qosimova",
+        "email": "Qosimova@gmail.com",
+        "phoneNumber": 12345,
+        "password": "abc",
+        "subject": "web",
+        "id": "eb77e78c-c9e3-4654-a80a-20d32aed6dfb",
+        "group": [
+            {
+                "title": "front-end",
+                "time": 7
+            }
+        ]
+    }
+]
